@@ -1,0 +1,12 @@
+.icon i {
+    color: #0cb8b6;
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    color: #222222;
+}
+

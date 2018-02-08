@@ -1,0 +1,63 @@
+#logo{
+    position:relative;
+    /*background-color:brown;*/
+    
+}
+#logoHomeContent{
+    position:relative;
+    left:40%;
+
+}
+
+
+.banner-text h1 {
+    font-family: 'Candal', sans-serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-appoint, .btn-appoint:hover, .btn-appoint:focus {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 12px;
+    background-color: rgba(12, 184, 182, 0.91);
+    border-radius: 3px;
+    color: #fff;
+}
+
+.banner-text {
+    color: #fff;
+}
+
+.text-center {
+    text-align: center;
+}
+
+@font-face
+{
+    font-family: 'Candal';
+    src: url('/assets/fonts/Candal.ttf');    
+}

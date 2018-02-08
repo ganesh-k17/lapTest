@@ -1,0 +1,7 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+@font-face
+{
+    font-family: 'Raleway';
+    src: url('/assets/fonts/Raleway-Regular.ttf');    
+}

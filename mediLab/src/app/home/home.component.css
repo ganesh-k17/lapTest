@@ -1,0 +1,16 @@
+#homeComponentContainer{
+    min-height: 700px;
+    background-color:#2C4961;
+    padding-top:200px;
+    padding-left:25%;
+    padding-right:25%;
+    /*opacity:0.2;*/
+}
+#homePanel{
+    background-color:#5E8A92;
+     background-image: url("/assets/images/bg-banner.jpg");
+}
+
+.bg-color{
+    background-color: RGBA(13, 70, 83, 0.78) !important;
+}
